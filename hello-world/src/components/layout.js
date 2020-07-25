@@ -16,7 +16,7 @@ export default function Layout({ children }) {
             }
         `
     )
-    console.log(data)
+   
     return (
     <div
       css={css`
